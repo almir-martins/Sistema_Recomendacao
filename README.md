@@ -14,7 +14,7 @@ Encontrar uma base de dados que pudesse ser utilizada para o projeto em si. O da
 
 Estudar, analisar, limpar e preparar o dataset para aplicação do modelo. Foi realizado uma análise exploratória para entender a distribuição dos dados, a importância das features e suas relevâncias para o fim buscado, simplificação dos dados sem perder objetividade.
 
-![Distribuição de variáveis](https://raw.githubusercontent.com/almir-martins//leonardo_freela/dados/plot1.png))
+![Distribuição de variáveis](dados/plot1.png)
 
 ![Mapa de calor - Correlação de Pearson](https://raw.githubusercontent.com/almir-martins//leonardo_freela/dados/plot2.png)
 
