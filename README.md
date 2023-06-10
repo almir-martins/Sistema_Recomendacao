@@ -16,7 +16,7 @@ Estudar, analisar, limpar e preparar o dataset para aplicação do modelo. Foi r
 
 ![Distribuição de variáveis](dados/plot1.png)
 
-![Mapa de calor - Correlação de Pearson](https://raw.githubusercontent.com/almir-martins//leonardo_freela/dados/plot2.png)
+![Mapa de calor - Correlação de Pearson](dados/plot2.png)
 
 ## Etapa 3
 
@@ -37,6 +37,6 @@ O deploy é bem simples e pode até ser hospedado diretemante na página do Stre
 
 Segue alguns prints da interface:
 
-![Interface principal](https://raw.githubusercontent.com/almir-martins//leonardo_freela/dados/interface1.png)
+![Interface principal](dados/interface1.png)
 
-![Músicas sugeridas](https://raw.githubusercontent.com/almir-martins//leonardo_freela/dados/interface2.png)
+![Músicas sugeridas](dados/interface2.png)
