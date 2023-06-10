@@ -6,7 +6,7 @@ Este projeto foi um job freelancer contratado por um aluno de curso de TI para e
 
 Estudar e revisar a documentação já iniciada do trabalho para entender as especificações, datas e requisitos à serem entregues.
 
-## Etapa 2 
+## Etapa 2
 
 Encontrar uma base de dados que pudesse ser utilizada para o projeto em si. O dataset principal foi retirado do Kaggle e correspondia a uma lista de features com características de músicas disponibilizada pelo Spotify para uma competição, [link aqui](https://www.kaggle.com/datasets/mrmorj/dataset-of-songs-in-spotify?select=genres_v2.csv). Como o dataset principal não tinha informações de título, intérprete e album, encontrei um json com mais de 1 milhão de dados sobre playlists do Spotify, [link aqui](https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge) onde consegui extrair as informações desejadas e juntar ao dataset principal.
 
@@ -20,11 +20,11 @@ Distribuição de variáveis
 Mapa de calor - Correlação de Pearson
 ![Mapa de calor - Correlação de Pearson](dados/plot2.png)
 
-## Etapa 3
+## Etapa 4
 
 Criar um modelo K-means conforme requisitos da entrega, aplicar o WSS Score para verificar a quantidade de clusters mais indicadas para os dados em questão, aplicar técnica de redução de dimensionalidade usando a biblioteca Principal Component Analysis (PCA). Fazer um teste usando o resultado da WSS Score como ponto de partida para testar o resultado da métrica Silhouette Score, que é muito mais confiável que a WSS por calcular a distância intra-clusters e extra-clusters, testando N quantidade de clusters. Após encontrar o valor de K ideal implementar o K-means, plotar o resultado para uma verificação visual dos clusters assim como o resultado do Silhouette Score e inserir novos dados para verificar o funcionamento do modelo.
 
-## Etapa 4
+## Etapa 5
 
 Desenvolver uma interface gráfica para apresentar o resultado. Nesta etapa eu escolhi a bilbioteca [Streamlit](https://streamlit.io/), desenvolvida em python, que é uma ferramenta de prototipação web que prega os seguintes principios:
 
