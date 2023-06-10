@@ -14,8 +14,10 @@ Encontrar uma base de dados que pudesse ser utilizada para o projeto em si. O da
 
 Estudar, analisar, limpar e preparar o dataset para aplicação do modelo. Foi realizado uma análise exploratória para entender a distribuição dos dados, a importância das features e suas relevâncias para o fim buscado, simplificação dos dados sem perder objetividade.
 
+Distribuição de variáveis
 ![Distribuição de variáveis](dados/plot1.png)
 
+Mapa de calor - Correlação de Pearson
 ![Mapa de calor - Correlação de Pearson](dados/plot2.png)
 
 ## Etapa 3
@@ -37,6 +39,8 @@ O deploy é bem simples e pode até ser hospedado diretemante na página do Stre
 
 Segue alguns prints da interface:
 
+Interface principal
 ![Interface principal](dados/interface1.png)
 
+Músicas sugeridas
 ![Músicas sugeridas](dados/interface2.png)
